@@ -10,67 +10,87 @@
                 imageUrl: 'https://via.placeholder.com/100',
                 linkUrl: 'https://www.google.com'
             },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
-                       {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
-            },
             // Adicione mais itens conforme necessário
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
+       {
+                title: 'Título do Artigo 2',
+                imageUrl: 'https://via.placeholder.com/100',
+                linkUrl: 'https://www.google.com'
+            },
         ];
 
         // Função para exibir os itens do feed na página
