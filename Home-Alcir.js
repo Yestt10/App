@@ -12,9 +12,9 @@
             },
             // Adicione mais itens conforme necessário
        {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.alcir.net/2023/10/cicatrizes-as-facadas-invisiveis.html'
+                title: 'Conexões - fios invisíveis que nos ligam uns aos outros',
+                imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4kXUuM2-X7cLO9u1FkP75CPacwAGuCr-eUGAzE71pMo8jnhbtJN4OA5LHeXkwyA26yT_KgUJlz5CF4cxxVbEyZwCCAgLGX5pwa97wEj9TTLHenoarkeatSCIytMPHd9z0Ho2nNF2IdotZSp_C6wIvbxxjsEXl9z3WDpKT3afsJPXY8N83zFm_qZoVc2fZ/s960/conexoes.jpg',
+                linkUrl: 'https://www.alcir.net/2023/10/conexoes-fios-invisiveis-que-nos-ligam.html'
             },
        {
                 title: 'Cicatrizes - Facadas Invisíveis que Levamos',
