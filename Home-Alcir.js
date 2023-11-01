@@ -1,9 +1,9 @@
         // Dados de exemplo com títulos, URLs de imagens e URLs de links
         const feedData = [
             {
-                title: 'Título do Artigo 1',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
+                title: 'Redes Sociais: Conexões Virtuais, Desafios Reais e Maléficios',
+                imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLc7VgZr2N1xjshZAE8sxxwUAmtuAMOm187R95Fe3h5R7CSo0Mjf2CgJqRRTbiqhbdQk9U7hL1prPrbjTxyMjLoQUHGSurQvUTxyIpUD9NiKomIUrfnih6ulkEBEqWeGojO4V1FGTOXfmEO26XJ12g7AniBkekQzpVSERtc4QTZ_rDxBVR1A4FlSnlA8N2/w554-h311-c-rw/uma-pessoa-triste-no-computador.jpg',
+                linkUrl: 'https://www.alcir.net/2023/10/redes-sociais-conexoes-virtuais.html'
             },
             {
                 title: 'Título do Artigo 2',
