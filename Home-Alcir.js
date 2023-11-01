@@ -19,7 +19,7 @@
        {
                 title: 'Cicatrizes - Facadas Invisíveis que Levamos',
                 imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpf21soDrCC7H_eRsCi8wUroSzjy7vjK9ckZTOmu-lwRKWm3eG5CZGBDKAgaF9wRTIcwOyneDr6QrWriRWNc9KJxsKEPpwmx9jSS2VnTMe5PwVnPfQcvAcrvI_KTa4RmVK8xGBNl3ShdoGVSDKAHUI2YYelz7tKWAEvNAowHLlo6kCosu6bqGh968ax1w/w554-h311-c-rw/faca-com-sangue.jpg',
-                linkUrl: 'https://www.google.com'
+                linkUrl: 'https://www.alcir.net/2023/10/cicatrizes-as-facadas-invisiveis.html'
             },
        {
                 title: 'Encontrando Luz nas Sombras - Anda Desanimado(a)? Leia esse Texto',
