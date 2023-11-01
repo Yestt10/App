@@ -6,9 +6,9 @@
                 linkUrl: 'https://www.alcir.net/2023/10/redes-sociais-conexoes-virtuais.html'
             },
             {
-                title: 'Título do Artigo 2',
-                imageUrl: 'https://via.placeholder.com/100',
-                linkUrl: 'https://www.google.com'
+                title: 'O natal está chegado cultive o espírito de generosidade e gratidão',
+                imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbj0wtU2k01V3n7SpMWgLP6gsK5U3yUVVHig5PeV7UULhDGcnP2ab-xSj40YGYwBuV5PtpU4g0ncKXiDUm7e-VSVRKmN54JyTfHgoJaeNzU0tO10O07vv-QRfPIxInxnTWH_-DoQe0ot3qn7dH52KR92ozJSDwBquGpZNr8DZQXPH8TA84Ey0IKnuQ8fLu/s960/natal.jpg',
+                linkUrl: 'https://www.alcir.net/2023/10/o-natal-esta-chegado.html'
             },
             // Adicione mais itens conforme necessário
        {
