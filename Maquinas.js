@@ -3,18 +3,18 @@
             {
                 title: 'Point Pro 2 (Mercado Pago) R$139,90',
                 imageUrl: 'https://i.imgur.com/snWb4MC.jpg',
-                linkUrl: 'http://mpago.li/2nrBRmk'
+                linkUrl: 'https://mpago.li/2nrBRmk'
             },
             {
                 title: 'Point Smart (Mercado Pago) R$339,90',
                 imageUrl: 'https://i.imgur.com/nlV4FQX.jpg',
-                linkUrl: 'http://mpago.li/1RTCLqC'
+                linkUrl: 'https://mpago.li/1RTCLqC'
             },
             // Adicione mais itens conforme necessário
        {
-                title: 'Conexões - fios invisíveis que nos ligam uns aos outros',
-                imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4kXUuM2-X7cLO9u1FkP75CPacwAGuCr-eUGAzE71pMo8jnhbtJN4OA5LHeXkwyA26yT_KgUJlz5CF4cxxVbEyZwCCAgLGX5pwa97wEj9TTLHenoarkeatSCIytMPHd9z0Ho2nNF2IdotZSp_C6wIvbxxjsEXl9z3WDpKT3afsJPXY8N83zFm_qZoVc2fZ/s960/conexoes.jpg',
-                linkUrl: 'https://www.alcir.net/2023/10/conexoes-fios-invisiveis-que-nos-ligam.html'
+                title: 'Point Mini NFC (Mercado Pago) R$11,55',
+                imageUrl: 'https://i.imgur.com/yRLGwiT.jpg',
+                linkUrl: 'https://mpago.li/2KbgYNf'
             },
        {
                 title: 'Cicatrizes - Facadas Invisíveis que Levamos',
